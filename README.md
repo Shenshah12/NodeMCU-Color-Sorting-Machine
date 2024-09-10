@@ -18,6 +18,10 @@ Micro USB Cable
 The machine is currently capable of sorting only three colors: Red, Green, and Blue.
 
 ## 3D Model
+<img width="617" alt="Model_1" src="https://github.com/user-attachments/assets/b8135ce1-8672-460d-95ee-1cf12e22ee03">
+<img width="617" alt="Model_2" src="https://github.com/user-attachments/assets/312577cb-35a2-4112-b6e5-7e6ed42eab15">
+
+
 
 
 ## Circuit Connection
