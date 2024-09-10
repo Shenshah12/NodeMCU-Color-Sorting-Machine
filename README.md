@@ -1,7 +1,7 @@
 # NodeMCU-Color-Sorting-Machine
 
 ## Introduction
-This is my semester project for the course Microprocessor and Microcontroller Based Design. The goal of this project is to sort mixed color balls based on their detected color using NodeMCU and a color sensor.
+This is my semester project for the course Microprocessor and Microcontroller Based Design using an Arduino Uno. The goal of this project is to sort mixed color balls based on their detected color using NodeMCU and a color sensor.
 
 ## How It Works
 The color sorting machine is straightforward in its functionality. The user places mixed color balls on a slide. As the balls move through, a color sensor detects their color, and then a servo motor moves the ball to the corresponding cup for its color.
